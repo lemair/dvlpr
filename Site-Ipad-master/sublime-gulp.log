@@ -1,0 +1,15 @@
+<div class="col-md-4">
+			<a href="#" class="logo"><img src="img/Daylite.png" alt="logo"></a>
+		</div>
+		<div class="col-md-8">
+				<nav class="nav">
+			<a class="nav-link" href="#">Active</a>
+			<a class="nav-link" href="#">Active</a>
+			<a class="nav-link" href="#">Active</a>
+			<a class="nav-link" href="#">Disabled</a>
+		</nav>
+		<div class="social pull-right">
+			<nav class="social">
+				<a href="" class="nav-link"><i class="fa fa-vk"></i></a>
+			</nav>
+		</div>	
